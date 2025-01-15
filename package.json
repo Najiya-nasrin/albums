@@ -1,9 +1,9 @@
 {
-  "name": "albums",
+  "name": "books",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://najiya-nasrin.github.io/albums/",
+  "homepage": "https://najiya-nasrin.github.io/books-application/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
