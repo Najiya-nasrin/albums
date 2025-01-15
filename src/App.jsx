@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>Album List</h1>
+      <h1>Books List</h1>
       <BookCreate />
       <BookList />
     </div>
